@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @RequestMapping(value="/test")
 public class HelloAction {
 	/**
-	 * 这是范例
+	 * 这是范例呀
 	 * @return
 	 */
 	@RequestMapping(value="/hello",method=RequestMethod.GET)
